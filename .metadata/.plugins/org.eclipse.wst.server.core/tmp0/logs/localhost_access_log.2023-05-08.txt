@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [08/May/2023:00:00:20 +0530] "POST /user-product-app/login HTTP/1.1" 200 1632
+0:0:0:0:0:0:0:1 - - [08/May/2023:00:00:20 +0530] "GET /user-product-app/wallpaper.jpg HTTP/1.1" 200 2990931
+0:0:0:0:0:0:0:1 - - [08/May/2023:00:00:38 +0530] "GET /user-product-app/logout HTTP/1.1" 200 2159
+0:0:0:0:0:0:0:1 - - [08/May/2023:00:03:27 +0530] "GET /user-product-app/logout HTTP/1.1" 200 2131
+0:0:0:0:0:0:0:1 - - [08/May/2023:00:03:46 +0530] "GET /user-product-app/logout HTTP/1.1" 200 2159

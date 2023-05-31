@@ -1,0 +1,13 @@
+127.0.0.1 - - [04/May/2023:01:00:59 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:01:00 +0530] "GET /user-product-app/ HTTP/1.1" 200 442
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:01:00 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:01:15 +0530] "POST /user-product-app/login HTTP/1.1" 200 546
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:01:36 +0530] "GET /user-product-app/ HTTP/1.1" 200 457
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:02:51 +0530] "GET /user-product-app/ HTTP/1.1" 200 457
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:02:51 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:02:58 +0530] "POST /user-product-app/login HTTP/1.1" 200 546
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:03:00 +0530] "GET /user-product-app/editUser.jsp HTTP/1.1" 200 759
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:03:03 +0530] "GET /user-product-app/viewUser.jsp HTTP/1.1" 200 331
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:03:06 +0530] "GET /user-product-app/addProduct.jsp HTTP/1.1" 200 515
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:03:09 +0530] "GET /user-product-app/viewproducts HTTP/1.1" 200 636
+0:0:0:0:0:0:0:1 - - [04/May/2023:01:03:11 +0530] "GET /user-product-app/find?pid=1 HTTP/1.1" 200 681
